@@ -11,9 +11,23 @@ header, footer{
     clear: both;    
 }
 
-section{
+#top{
     height: 500px;
-    width: 33.3333%;
+    width: 100%;
+    border: 3px solid black;
+    float: left;
+}
+
+#mid-left{
+    height: 500px;
+    width: 25%;
+    border: 3px solid black;
+    float: left;
+}
+
+#mid-right{
+    height: 500px;
+    width: 75%;
     border: 3px solid black;
     float: left;
 }
